@@ -8,3 +8,7 @@
 - Python 설치
 - Jupyter Notebook 설치
 - Extension 설치
+
+## 3주차
+-Python 로그 출력 
+-Python 머신러닝 
